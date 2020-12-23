@@ -1,0 +1,21 @@
+
+U	java:S106="9Replace this use of System.out or System.err by a logger.(óÂ‘Ø8—´³üè.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚Ş²Æ8—´³üè.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãÌõ¦8—´³üè.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğ¼£ï8—´³üè.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(ÙÃÈ øÿÿÿÿ8—´³üè.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(«ÿÎ8—´³üè.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ÙÃÈ øÿÿÿÿ8—´³üè.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ïåç¹8—´³üè.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©·²Ü8—´³üè.
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(Œ¥Êóşÿÿÿÿ8—´³üè.
+L
+java:S3740M"/Provide the parametrized type for this generic.(Ó§Ç‹8—´³üè.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(êíõşÿÿÿÿ8—´³üè.
+g
+java:S1192="JDefine a constant instead of duplicating this literal " on Port " 4 times.(óÂ‘Ø8—´³üè.
+L
+java:S3740+"/Provide the parametrized type for this generic.(Ó§Ç‹8—´³üè.
+7
+java:S1220""Move this file to a named package.8©«¶üè.
